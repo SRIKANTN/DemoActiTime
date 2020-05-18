@@ -3,8 +3,11 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Reports.DemoA"/>
-      <class name="Reports.DemoB"/>
+      <class name="TestNGListener.InvokedMethodListenerTest"/>
+      <class name="TestNGListener.TestNGListenerTest"/>
+      <class name="MySQL.DemoC"/>
+      <class name="MySQL.DemoA"/>
+      <class name="MySQL.DemoB"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
